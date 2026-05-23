@@ -1,0 +1,30 @@
+{
+  "name": "fall-cake",
+  "version": "1.0.0",
+  "description": "Falling cake particles effect library - Create beautiful floating particle animations",
+  "main": "dist/fall-cake.min.js",
+  "unpkg": "dist/fall-cake.min.js",
+  "jsdelivr": "dist/fall-cake.min.js",
+  "keywords": [
+    "particle",
+    "cake",
+    "falling",
+    "animation",
+    "floating",
+    "birthday"
+  ],
+  "authors": [
+    {
+      "name": "VignaChu",
+      "url": "https://github.com/VignaChu"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VignaChu/fall-cake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VignaChu/fall-cake/issues"
+  }
+}
